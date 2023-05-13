@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Tashun Sandaru</h1>
+<h1 align="center">Hi 👋, I'm Tashun Sandaru</h1>
 <h3 align="center">Passionate Full Stack developer aspiring to be a Solidity Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/@tashun_s" target="blank"><img src="https://img.shields.io/twitter/follow/@tashun_s?logo=twitter&style=for-the-badge" alt="@tashun_s" /></a> </p>
