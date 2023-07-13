@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/@tashun_s" target="blank"><img src="https://img.shields.io/twitter/follow/@tashun_s?logo=twitter&style=for-the-badge" alt="@tashun_s" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **zkrollups, zksnarks**
 
 - 💬 Ask me about **Solidity**
 
